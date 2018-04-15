@@ -1,0 +1,12 @@
+Classified Ads changelog
+
+= Version 1.09 Feb 18 2016 =
+* ADDED: Changelog File
+* ADDED: Screen Reader Text Class
+* CHANGE: Header Image - No Repeat
+* CHANGE: Article Image - Padding
+* FIXED: Issues Custom Header
+* FIXED: Issues Visual Editor
+
+= Version 1.01 =
+* Initial release
